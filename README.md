@@ -9,7 +9,6 @@ I am a recent graduate with a profound interest in technology and an aspiring SO
 To build practical experience as a SOC Analyst by working on real-world threat detection, investigation, and incident response challenges.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -27,7 +26,6 @@ To build practical experience as a SOC Analyst by working on real-world threat d
 | Scripting and Automation                      | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### SIEM & Security Monitoring
 <div>
