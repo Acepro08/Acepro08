@@ -13,7 +13,8 @@ To build practical experience as a SOC Analyst by working on real-world threat d
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Investigation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Threat detection and incident response       |                    |
+| Threat detection and incident response 
+| SOC Alert Triage                             |IDS/IPS Alert Triage: True Positive Investigation — Warzone 1
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Endpoint Monitoring & Forensics              |                    |
 | Threat Intelligence                          |                    |
