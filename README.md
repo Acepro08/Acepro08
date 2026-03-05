@@ -39,6 +39,7 @@ To build practical experience as a SOC Analyst by working on real-world threat d
 ### Network monitoring and Traffic Analysis
 <div>
   <img src="https://img.shields.io/badge/-Wireshark-0284C7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Brim-4A90D9?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Zeek-64748B?&style=for-the-badge&logo=Zeek&logoColor=E2E8F0" />
 <img src="https://img.shields.io/badge/-Suricata-F97316?&style=for-the-badge&logo=Suricata&logoColor=white" />
 <img src="https://img.shields.io/badge/-Snort-DC2626?&style=for-the-badge&logo=Snort&logoColor=white" />
