@@ -14,7 +14,7 @@ To build practical experience as a SOC Analyst by working on real-world threat d
 |-----------------------------------------------|----------------------------|
 | SIEM Investigation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Threat detection and incident response 
-| SOC Alert Triage                             |IDS/IPS Alert Triage: True Positive Investigation — Warzone 1
+| SOC Alert Triage                             |IDS/IPS Alert Triage: True Positive Investigation — <a href="https://github.com/Acepro08/SOC-Alert-Triage-Warzone-1/blob/main/README.md">Warzone 1</a>, Warzone 2
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Endpoint Monitoring & Forensics              |                    |
 | Threat Intelligence                          |                    |
@@ -91,5 +91,5 @@ To build practical experience as a SOC Analyst by working on real-world threat d
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/Acepro08/SOC-Alert-Triage-Warzone-1/blob/main/README.md">Warzone 1</a>
+- <a href="https://github.com/Acepro08/SOC-Alert-Triage-Warzone-1/blob/main/README.md">Warzone 2</a>
