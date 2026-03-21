@@ -12,11 +12,11 @@ To build practical experience as a SOC Analyst by working on real-world threat d
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Investigation and Log Analysis          | <a href="https://github.com/Acepro08/Investigating-with-Splunk/blob/main/README.md">Investigating-with-splunk</a>, <a href="https://github.com/Acepro08/PS-Eclipse/blob/main/README.md">Ps-eclipse</a> |
+| SIEM Investigation and Log Analysis          | <a href="https://github.com/Acepro08/Investigating-with-Splunk/blob/main/README.md">Investigating-with-splunk</a>, <a href="https://github.com/Acepro08/PS-Eclipse/blob/main/README.md">Ps-eclipse</a>,<a href="https://github.com/Acepro08/Benign/blob/main/README.md">Benign</a> |
 | Threat detection and incident response 
-| SOC Alert Triage                             |IDS/IPS Alert Triage:  <a href="https://github.com/Acepro08/SOC-Alert-Triage-Warzone-1/blob/main/README.md">Warzone 1</a>, Warzone 2
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Endpoint Monitoring & Forensics              |                    |
+| SOC Alert Triage                             | <a href="https://github.com/Acepro08/SOC-Alert-Triage-Warzone-1/blob/main/README.md">Warzone 1</a>, Warzone 2
+| Network Traffic Monitoring and Attack Detection |              |
+| Endpoint Monitoring & Forensics              |                 |
 | Threat Intelligence                          |                    |
 | Malware Analysis                             |                    |
 | Phishing Analysis                            |                    |
@@ -93,5 +93,7 @@ To build practical experience as a SOC Analyst by working on real-world threat d
 
 ## Projects
 - <a href="https://github.com/Acepro08/SOC-Alert-Triage-Warzone-1/blob/main/README.md">Warzone 1</a>
-
 - <a href="https://github.com/Acepro08/Investigating-with-Splunk/blob/main/README.md">Investigating with splunk</a>
+- <a href="https://github.com/Acepro08/PS-Eclipse/blob/main/README.md">Ps-eclipse</a>
+-  <a href="https://github.com/Acepro08/Benign/blob/main/README.md">Benign</a>
+
